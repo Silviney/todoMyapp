@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.silviney</groupId>
-	<artifactId>todo_myapp</artifactId>
+	<artifactId>todo-myapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>todo_myapp</name>
+	<name>todo-myapp</name>
 	<description>My first API</description>
 	<properties>
 		<java.version>11</java.version>
